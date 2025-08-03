@@ -1,12 +1,10 @@
 // pages/index.js
 export default function Home() {
   const tracks = [
-    { name: "Yaara", file: "yaara.mp3" },
-    { name: "Toxic", file: "toxic.mp3" },
-    { name: "Shutdown", file: "shutdown.mp3" },
-    { name: "Toxic", file: "toxic.ogg" },
-    { name: "Toxic", file: "toxic.wav" },
-    { name: "Toxic", file: "toxic.wma" },
+    { name: "Yaara-ogg", file: "yaara.ogg" },
+    { name: "Yaara-mp3", file: "yaara.mp3" },
+    { name: "Yaara-wav", file: "yaara.wav" },
+    { name: "Yaara-wma", file: "yaara.wma" },
   ];
 
   const play = (src) => {
