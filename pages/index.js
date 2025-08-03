@@ -3,7 +3,7 @@ export default function Home() {
   const tracks = [
     { name: "Yaara", file: "yaara.mp3" },
     { name: "Toxic", file: "toxic.mp3" },
-    { name: "Toxic", file: "Shutdown.mp3" },
+    { name: "Shutdown", file: "shutdown.mp3" },
     { name: "Toxic", file: "toxic.ogg" },
     { name: "Toxic", file: "toxic.wav" },
     { name: "Toxic", file: "toxic.wma" },
